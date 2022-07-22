@@ -8,7 +8,8 @@ I followed the acceptance criteria. But am likely sure i didnt get them all to w
 
 ## Only Javascript was to be edited and not the html and css. changes are listed below
 
-  Script code
+  >Script-Code
+
     -Created an array (or a list) of the keys per requirements.
     -Introduced a function for the array to generate random combinations (and added a console log to test the result. "...IT WORKS!!!"
     -Introduced the required propt windows that pop up on clicking the generate password btn and made sure the7y work as intended.
