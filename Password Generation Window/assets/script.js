@@ -35,7 +35,7 @@ function generatePassword() {
     "Please input your desired length for the password"
   );
 
-  if (DesiredLength <= 8 || DesiredLength >= 128) {
+  if (DesiredLength < 8 || DesiredLength > 128) {
     var DesiredLength = alert(
       "Sorry!, selection can not be less than 8 characters nor exceed 128 characters. Please Try again."
     );
@@ -97,9 +97,8 @@ function generatePassword() {
   }
   if (confirmSymbols) {
     password += keys.Symbols;
-
-    return password;
   }
+  return password;
 
   // function to randomize the password
   var randomizedP = "";
