@@ -8,17 +8,21 @@ I followed the acceptance criteria. But am likely sure i didnt get them all to w
 
 ## Only Javascript was to be edited and not the html and css. changes are listed below
 
-  >Script-Code
+  Script-Code
 
     -Created an array (or a list) of the keys per requirements.
+
     -Introduced a function for the array to generate random combinations (and added a console log to test the result. "...IT WORKS!!!"
+
     -Introduced the required propt windows that pop up on clicking the generate password btn and made sure the7y work as intended.
+
     -Made 2 functions to generate a password and randomize it but the result shown isn't as intended.
 
 ## Challenges
 
-  -Bigest challenge ended up being: Making sure the final generated password is in intended amount of numbers specified in prompt window. but it keeps on giving variety of different unintended results when trying to combine more than 1 type of "keys" instead.
-  -As in previous 2 challenges, I have uploaded the challenge on githum repo as wel as [netlify url](https://p-g-w-37e431.netlify.app/) just to make sure (just in case).
+    -Bigest challenge ended up being: Making sure the final generated password is in intended amount of numbers specified in prompt window. but it keeps on giving variety of different unintended results when trying to combine more than 1 type of "keys" instead.
+
+    -As in previous 2 challenges, I have uploaded the challenge on githum repo as wel as [netlify url](https://p-g-w-37e431.netlify.app/) just to make sure (just in case).
 
 ## Image
 
