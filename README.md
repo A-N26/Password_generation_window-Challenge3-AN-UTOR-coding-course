@@ -17,7 +17,7 @@ I followed the acceptance criteria. But am likely sure i didnt get them all to w
 ## Challenges
   
   - Bigest challenge ended up being: Making sure the final generated password is in intended amount of numbers specified in prompt window. but it keeps on giving variety of different unintended results when trying to combine more than 1 type of "keys" instead.
-  - As previous 2 challenges i have uploaded the challenge on githum repo and netlify to make sure (just in case).
+  - As in previous 2 challenges, I have uploaded the challenge on githum repo as wel as netlify just to make sure (just in case): https://p-g-w-37e431.netlify.app/
   
 ## Image
 
