@@ -21,7 +21,7 @@ I followed the acceptance criteria. But am likely sure i didnt get them all to w
   
 ## Image
 
-  ![alt text](screenshots/console.log.jpg)
+  ![alt text](screenshots/console-log.jpg)
   ![alt text](screenshots/prompt-window_example.jpg)
 
 ## Badges
